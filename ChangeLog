@@ -1,3 +1,7 @@
+2025-06-27  Boyuan Yang <073plan@gmail.com>
+
+	* Bump version string to 1.6.4.3.
+
 2025-06-05  Boyuan Yang <073plan@gmail.com>
 
 	* Full translation of xargs(1) from findutils v4.10.0.
